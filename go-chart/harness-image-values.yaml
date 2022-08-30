@@ -1,0 +1,3 @@
+image:
+  repository: ghcr.io/<+artifact.imagePath>
+  tag: "<+artifact.tag>"
