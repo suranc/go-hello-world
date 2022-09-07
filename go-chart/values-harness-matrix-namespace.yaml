@@ -1,4 +1,3 @@
 namespace:
   enabled: true
-  #name: <+pipeline.stages.Deploy_to_Multiple_Environments.variables.env>
   name: temp-go-hw
